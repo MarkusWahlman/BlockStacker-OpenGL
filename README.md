@@ -1,5 +1,5 @@
 
-# Stacker-OpenGL
+# BlockStacker-OpenGL
 
 A block-stacking game made with modern OpenGL.
 
