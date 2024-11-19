@@ -5,7 +5,7 @@ A block-stacking game made with modern OpenGL.
 
 ## About the project
 
-I created this project to explore and learn the basics of OpenGL.
+I created this project to explore and learn the basics of OpenGL. Please note that this project does not follow best coding practices as it is primarily a learning exercise. The focus is on understanding OpenGL concepts.
 
 ## The game right now
 The movement and rotation mechanics work well. However, I may need to add a feature to adjust the block’s position during rotation (by moving it up, right, or left as needed) to prevent it from getting stuck. 
